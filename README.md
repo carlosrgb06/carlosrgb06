@@ -6,7 +6,7 @@ Robotics Engineering student @ Tec de Monterrey · Monterrey, México
 
 ## About
 
-I'm a second-semester IRS student working toward autonomous vehicles and robotics systems. Right now I'm integrating the SBG sensor (IMU/GPS) into the USV at Vanttec, building toward SLAM-based localization — and in parallel developing a 4WD differential robot from scratch to go deep on computer vision, odometry, and control.
+I'm a IRS student working toward autonomous vehicles and robotics systems. Right now I'm integrating the SBG sensor (IMU/GPS) into the USV at Vanttec, building toward SLAM-based localization — and in parallel developing a 4WD differential robot from scratch to go deep on computer vision, odometry, and control.
 
 My background is in competitive robotics — three years as electrical captain in FIRST FRC, where I learned that real systems break in real ways. That's the approach I bring to everything I build.
 
