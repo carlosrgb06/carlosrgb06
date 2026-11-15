@@ -14,7 +14,7 @@ My background is in competitive robotics — three years as electrical captain i
 
 ## Stack
 
-`ROS2 Humble` `C++` `Python` `MATLAB` `STM32` `Linux` `OpenCV` `Nav2` `Git`
+`ROS2 Humble` `C++` `Python` `MATLAB` `Linux` `OpenCV` `Git` `ROS2 Jazzy`
 
 ---
 
