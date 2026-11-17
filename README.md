@@ -6,36 +6,35 @@ Robotics Engineering student @ Tec de Monterrey · Monterrey, México
 
 ## About
 
-I'm a IRS student working toward autonomous vehicles and robotics systems. Right now I'm integrating the SBG sensor (IMU/GPS) into the USV at Vanttec, building toward SLAM-based localization — and in parallel developing a 4WD differential robot from scratch to go deep on computer vision, odometry, and control.
+I'm a robotics engineering student focused on autonomous vehicles. I lead the control area of Vanttec's USV team, which competes in RoboBoat, and I'm part of the Navigation subarea at Olympus Robotics, which builds a Mars rover for the University Rover Challenge.
 
-My background is in competitive robotics — three years as electrical captain in FIRST FRC, where I learned that real systems break in real ways. That's the approach I bring to everything I build.
+My work centers on localization, path planning, and control. At Vanttec I built the localization node on an SBG IMU/GNSS, an A* path planner, and a PID controller (gain tuning in progress), and the boat has navigated autonomously to waypoints in field tests. At Olympus I proposed and prototyped a terrain cost map derived from DEM slope data, which the team adopted.
+
+Before university I spent three years as electrical captain of FIRST FRC team Buluk 3472: we won the FRC Regional Monterrey 2024 and qualified for the World Championship in Houston.
 
 ---
 
 ## Stack
 
-`ROS2 Humble` `C++` `Python` `MATLAB` `Linux` `OpenCV` `Git` `ROS2 Jazzy`
+`ROS2` `C++` `Python` `MATLAB` `Docker` `Gazebo` `QGIS` `Linux` `OpenCV` `Git`
 
 ---
 
 ## Projects
 
-**USV localization — Vanttec**
-Integrating SBG Ellipse (IMU/GPS) with ROS2 Humble on a Jetson Orin for real-time pose estimation. Building toward SLAM on an autonomous surface vehicle.
-`ROS2` `C++` `SBG` `Jetson Orin`
+**[vanttec_usv](https://github.com/vanttec/vanttec_usv)**
+Localization, path planning, and control for Vanttec's autonomous surface vehicle, built for RoboBoat. Includes an A* path planner with obstacle tracking, unit-tested.
+`ROS2 Humble` `C++` `Gazebo` `SBG`
 
-**[minirobot-ros2](https://github.com/carlosrgb06/minirobot-ros2)**
-4WD differential robot built from scratch. Covers differential kinematics, encoder odometry, PID on STM32, and autonomous navigation with Nav2.
-`ROS2` `Nav2` `STM32` `OpenCV`
+**Olympus Robotics — Navigation**
+Navigation software stack for a Mars rover (University Rover Challenge). Team project.
+`ROS2 Jazzy` `Python` `Gazebo` `QGIS` `Terrain cost maps`
 
 ---
 
-## Currently learning
+## Interests
 
-- SLAM — theory and practice with the USV at Vanttec
-- Computer vision integration on the 4WD robot
-- STM32 firmware — PID, encoders, real-time control
-- Autonomous navigation with Nav2 and TF2
+Autonomous vehicles · Localization and SLAM · Path planning · Control · Terrain-aware navigation
 
 ---
 
