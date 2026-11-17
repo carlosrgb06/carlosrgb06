@@ -22,7 +22,7 @@ Before university I spent three years as electrical captain of FIRST FRC team Bu
 
 ## Projects
 
-**[vanttec_usv](https://github.com/vanttec/vanttec_usv)**
+**[Vanttec USV](https://github.com/vanttec/vanttec_usv)**
 Localization, path planning, and control for Vanttec's autonomous surface vehicle, built for RoboBoat. Includes an A* path planner with obstacle tracking, unit-tested.
 `ROS2 Humble` `C++` `Gazebo` `SBG`
 
@@ -34,7 +34,7 @@ Navigation software stack for a Mars rover (University Rover Challenge). Team pr
 
 ## Interests
 
-Autonomous vehicles · Localization and SLAM · Path planning · Control · Terrain-aware navigation
+Autonomous vehicles · Localization and SLAM · Path planning · Control · Terrain-aware navigation · Robotics
 
 ---
 
