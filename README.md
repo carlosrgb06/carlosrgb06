@@ -40,4 +40,4 @@ Autonomous vehicles · Localization and SLAM · Path planning · Control · Terr
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/carlos-reyes-garcía-barzanallana-a26746380) · carlosrgb06@gmail.com
+[www.linkedin.com/in/carlos-reyes-garcía-barzanallana](https://www.linkedin.com/in/carlos-reyes-garc%C3%ADa-barzanallana/) · carlosrgb06@gmail.com
