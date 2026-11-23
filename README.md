@@ -8,7 +8,7 @@ Robotics Engineering student @ Tec de Monterrey · Monterrey, México
 
 I'm a robotics engineering student focused on autonomous vehicles. I work on localization, path planning, and control, mostly in ROS 2 and C++.
 
-I'm part of Vanttec, Tec de Monterrey's autonomous vehicles team, where I lead the control area of the USV we're building for RoboBoat. I'm also in the Navigation subarea at Olympus Robotics, working on the navigation stack for a Mars rover for the University Rover Challenge.
+I'm part of Vanttec, Tec de Monterrey's autonomous vehicles team, where I lead the control area of the USV we're developing for RoboBoat. I'm also in the Navigation subarea at Olympus Robotics, working on the navigation stack for a Mars rover for the University Rover Challenge.
 
 Before university I was electrical captain of FIRST FRC team Buluk 3472, where we won the FRC Regional Monterrey 2024 and qualified for the World Championship in Houston.
 
